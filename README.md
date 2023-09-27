@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leonardo-tech-stack
-- 👀 I’m interested in ser um desenvolvedor Front end.
-- 🌱 I’m currently learning  HTML, CSS, Javascript e React.
+- 👀 I’m interested in Front end developer.
+- 🌱 I’m currently learning Angular.
 - 📫 How to reach me: leoalmeida337@gmail.com / https://www.linkedin.com/in/leonardo-carvalho-3708bb260/
 
 <!---
